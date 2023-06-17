@@ -1,0 +1,2 @@
+# Concordance_lines_extractor_with_John_Sinclair_linguistic_methodology
+This repository is created for a corpus linguistic research
